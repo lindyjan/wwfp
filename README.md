@@ -1,4 +1,4 @@
-# FoundationPress
+# WWFP
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/olefredrik/foundationpress?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![GitHub version](https://badge.fury.io/gh/olefredrik%2Ffoundationpress.svg)](https://github.com/olefredrik/FoundationPress/releases)
@@ -7,7 +7,7 @@
 
 This is a starter-theme for WordPress based on Zurb's [Foundation for Sites 6](https://foundation.zurb.com/sites.html), the most advanced responsive (mobile-first) framework in the world. The purpose of FoundationPress, is to act as a small and handy toolbox that contains the essentials needed to build any design. FoundationPress is meant to be a starting point, not the final product.
 
-Please fork, copy, modify, delete, share or do whatever you like with this.
+Please fork, copy, modify, delete, share or do whatever you like with this. This is a test for git
 
 All contributions are welcome!
 
