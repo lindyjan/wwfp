@@ -54,15 +54,6 @@ require_once( 'library/responsive-images.php' );
 /** Gutenberg editor support */
 require_once( 'library/gutenberg.php' );
 
-// Custom Logo
-        add_theme_support( 'custom-logo', array(
-            'height'      => 60,
-            'width'       => 400,
-            'flex-width'  => true,
-            'flex-height' => true,
-            'header-text' => array( 'site-title', 'site-description' ),
-        ) );
-
 
 /** If your site requires protocol relative url's for theme assets, uncomment the line below */
 // require_once( 'library/class-foundationpress-protocol-relative-theme-assets.php' );
